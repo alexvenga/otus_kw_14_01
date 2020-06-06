@@ -1,0 +1,15 @@
+{
+  "name": "vendor_name/otus_kw_14_01",
+  "description": "description",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "alex",
+      "email": "email@example.com"
+    }
+  ],
+  "require": {
+    "mongodb/mongodb": "1.6.0"
+  }
+}
